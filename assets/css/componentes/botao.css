@@ -1,0 +1,16 @@
+.botao {
+    background-color: var(--vermelho-escuro);
+
+    width: 112px;
+    height: 44px;
+
+    text-align: center;
+    font-family: inherit;
+    font-weight: var(--peso-nav);
+    padding: 10px 18px;
+    color: #FFFFFF;
+
+    border: 1px solid var(--vermelho-escuro);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 0.5rem;
+}
